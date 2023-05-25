@@ -1,0 +1,244 @@
+ACTOR NAME;Show title;character name;character gender;release date;actor age;character age;age difference
+Ben Platt;The Politician;Payton Hobart;M;2019-09-27;26;17;9
+Zoey Deutch;The Politician;Infinity Jackson;F;2019-09-27;24;17;7
+Lucy Boynton;The Politician;Astrid Sloan;F;2019-09-27;25;17;8
+Julia Schlaepfer;The Politician;Alice Charles;F;2019-09-27;24;17;7
+Laura Dreyfuss;The Politician;McAfee Westbrook;F;2019-09-27;31;17;14
+Theo Germaine;The Politician;James Sullivan;M;2019-09-27;;17;
+Rahne Jones;The Politician;Skye Leighton;NB;2019-09-27;32;17;15
+David Corenswet;The Politician;River Barkley;M;2019-09-27;26;17;9
+Ryan J. Haddad;The Politician;Andrew Cashman;M;2019-09-27;27;17;10
+Alexis Bledel;Gilmore Girls;Rory Gilmore;F;2000-10-05;19;15;4
+Keiko Agena;Gilmore Girls;Lane Kim;F;2000-10-05;27;15;12
+Liza Weil;Gilmore Girls;Paris Geller;F;2000-10-05;23;15;8
+Jared Padalecki;Gilmore Girls;Dean Forester;M;2000-10-05;18;15;3
+Teal Redmann;Gilmore Girls;Louise Grant;F;2000-10-05;18;15;3
+Shelly Cole;Gilmore Girls;Madeline Lynn;F;2000-10-05;25;15;10
+Chad Michael Murray;Gilmore Girls;Tristin Dugray;M;2000-10-05;19;15;4
+Asa Butterfield;Sex Education;Otis Milburn;M;2019-01-11;21;16;5
+Ncuti Gatwa;Sex Education;Eric Effiong;M;2019-01-11;26;16;10
+Emma Mackey;Sex Education;Maeve Wiley;F;2019-01-11;23;16;7
+Connor Swindells;Sex Education;Adam Groff;M;2019-01-11;22;16;6
+Kedar Williams-Stirling;Sex Education;Jackson Marchetti;M;2019-01-11;24;16;8
+Aimee Lou Wood;Sex Education;Aimee Gibbs;F;2019-01-11;23;16;7
+Tanya Reynolds;Sex Education;Lily Iglehart;F;2019-01-11;27;16;11
+Patricia Allison;Sex Education;Ola Nyman;F;2019-01-11;24;16;8
+Mimi Keene;Sex Education;Ruby Matthews;F;2019-01-11;20;16;4
+Simone Ashley;Sex Education;Olivia Hanan;F;2019-01-11;23;16;7
+Chaneil Kular;Sex Education;Anwar;M;2019-01-11;19;16;3
+Kiernan Shipka;Chilling Adventures of Sabrina;Sabrina Spellman;F;2018-10-26;18;17;1
+Ross Lynch;Chilling Adventures of Sabrina;Harvey Kinkle;M;2018-10-26;22;16;6
+Jaz Sinclair;Chilling Adventures of Sabrina;Rosalind Walker;F;2018-10-26;24;16;8
+Tati Gabrielle;Chilling Adventures of Sabrina;Prudence Night;F;2018-10-26;22;16;6
+Adeline Rudolph;Chilling Adventures of Sabrina;Agatha;F;2018-10-26;23;16;7
+Lachlan Watson;Chilling Adventures of Sabrina;Theo Putnam;TM;2018-10-26;17;16;1
+Gavin Leatherwood;Chilling Adventures of Sabrina;Nicholas Scratch;M;2018-10-26;24;16;8
+Abigail Cowen;Chilling Adventures of Sabrina;Dorcas;F;2018-10-26;20;16;4
+Jahi Di'Allo Winston;Everything Sucks!;Luke O'Neil;M;2018-02-16;14;14;0
+Peyton Kennedy;Everything Sucks!;Kate Messner;F;2018-02-16;14;15;-1
+Quinn Liebling;Everything Sucks!;Tyler;M;2018-02-16;14;14;0
+Elijah Stevenson;Everything Sucks!;Oliver;M;2018-02-16;19;17;2
+Rio Mangini;Everything Sucks!;McQuaid;M;2018-02-16;15;14;1
+Sydney Sweeney;Everything Sucks!;Emaline Addario;F;2018-02-16;20;16;4
+Abi Brittle;Everything Sucks!;Leslie;F;2018-02-16;17;15;2
+Chris Colfer;Glee;Kurt Hummel;M;2009-05-19;18;15;3
+Lea Michele;Glee;Rachel Berry;F;2009-05-19;22;15;7
+Kevin McHale;Glee;Artie Abrams;M;2009-05-19;20;14;6
+Naya Rivera;Glee;Santana Lopez;F;2009-05-19;22;15;7
+Jenna Ushkowitz;Glee;Tina Cohen-Chang;F;2009-05-19;23;14;9
+Amber Riley;Glee;Mercedes Jones;F;2009-05-19;23;15;8
+Mark Salling;Glee;Noah 'Puck' Puckerman;M;2009-05-19;26;15;11
+Heather Morris;Glee;Brittany S. Pierce;F;2009-05-19;22;15;7
+Harry Shum Jr.;Glee;Mike Chang;M;2009-05-19;27;15;12
+Cory Monteith;Glee;Finn Hudson;M;2009-05-19;27;15;12
+Dianna Agron;Glee;Quinn Fabray;F;2009-05-19;23;15;8
+Lauren Potter;Glee;Becky Jackson;F;2009-05-19;19;15;4
+Finn Wolfhard;Stranger Things;Michael 'Mike' Wheeler;M;2016-07-15;13;12;1
+Millie Bobby Brown;Stranger Things;Eleven;F;2016-07-15;12;12;0
+Gaten Matarazzo;Stranger Things;Dustin Henderson;M;2016-07-15;13;12;1
+Caleb McLaughlin;Stranger Things;Lucas Sinclair;M;2016-07-15;14;12;2
+Natalia Dyer;Stranger Things;Nancy Wheeler;F;2016-07-15;21;17;4
+Charlie Heaton;Stranger Things;Jonathon Byers;M;2016-07-15;22;17;5
+Joe Keery;Stranger Things;Steve Harrington;M;2016-07-15;24;17;7
+Noah Schnapp;Stranger Things;Will Byers;M;2016-07-15;11;12;-1
+Sophia Lillis;I Am Not Okay With This;Sydney Novak;F;2020-02-26;18;16;2
+Wyatt Oleff;I Am Not Okay With This;Stanley Barber;M;2020-02-26;16;16;0
+Sofia Bryant;I Am Not Okay With This;Dina;F;2020-02-26;20;16;4
+Richard Ellis;I Am Not Okay With This;Brad Lewis;M;2020-02-26;25;16;9
+Zachary S. Williams;I Am Not Okay With This;Rick Berry;M;2020-02-26;20;16;4
+Keir Gilchrist;Atypical;Sam Gardner;M;2017-08-11;24;17;7
+Brigette Lundy-Paine;Atypical;Casey Gardner;F;2017-08-11;23;15;8
+Graham Rogers;Atypical;Evan Chapin;M;2017-08-11;26;16;10
+Jenna Boyd;Atypical;Paige;F;2017-08-11;24;17;7
+Colin Ford;Daybreak;Josh Wheeler;M;2019-10-24;23;16;7
+Alyvia Alyn Lind;Daybreak;Angelica Green;F;2019-10-24;12;11;1
+Sophie Simnett;Daybreak;Samaira 'Sam' Dean;F;2019-10-24;21;16;5
+Austin Crute;Daybreak;Wesley Fists;M;2019-10-24;24;16;8
+Cody Kearsley;Daybreak;Turbo Pokaski;M;2019-10-24;28;17;11
+Jeanté Godlock;Daybreak;Mona Lisa;F;2019-10-24;31;16;15
+Gregory Kasyan;Daybreak;Eli Cardashyan;M;2019-10-24;18;17;1
+Charlie Plummer;Looking for Alaska;Miles 'Pudge' Halter;M;2019-10-18;20;16;4
+Kristine Froseth;Looking for Alaska;Alaska Young;F;2019-10-18;24;16;8
+Denny Love;Looking for Alaska;Chip 'The Colonel' Martin;M;2019-10-18;;16;
+Jay Lee;Looking for Alaska;Takumi Hikohito;M;2019-10-18;;16;
+Sofia Vassilieva;Looking for Alaska;Lara Buterskaya;F;2019-10-18;26;16;10
+Landry Bender;Looking for Alaska;Sara Bankhead Harbert;F;2019-10-18;19;16;3
+Shailene Woodley;Secret Life of the American Teenager;Amy Juergens;F;2008-07-01;16;14;2
+Ken Baumann;Secret Life of the American Teenager;Ben Boykewich;M;2008-07-01;18;14;4
+Daren Kagasoff;Secret Life of the American Teenager;Ricky Underwood;M;2008-07-01;20;15;5
+Francia Raisa;Secret Life of the American Teenager;Adrian Lee;F;2008-07-01;19;15;4
+Megan Park;Secret Life of the American Teenager;Grace Bowman;F;2008-07-01;21;17;4
+Greg Finley;Secret Life of the American Teenager;Jack Pappas;M;2008-07-01;23;18;5
+Camille Winbush;Secret Life of the American Teenager;Lauren Treacy;F;2008-07-01;18;14;4
+Renee Olstead;Secret Life of the American Teenager;Madison Cooperstein;F;2008-07-01;19;14;5
+Marlo Kelly;Dare Me;Beth Cassidy;F;2019-12-29;;;
+Herizen Guardiola;Dare Me;Addy Hanlon;F;2019-12-29;23;;
+Alison Thornton;Dare Me;Tacy Cassidy;F;2019-12-29;20;14;6
+Eliza Taylor;The 100;Clarke Griffin;F;2014-03-19;24;17;7
+Thomas McDonell;The 100;Finn Collins;M;2014-03-19;27;17;10
+Eli Goree;The 100;Wells Jaha;M;2014-03-19;;17;
+Marie Avgeropoulos;The 100;Octavia Blake;F;2014-03-19;27;17;10
+Bob Morley;The 100;Bellamy Blake;M;2014-03-19;29;23;6
+Christopher Larkin;The 100;Monty Green;M;2014-03-19;26;16;10
+Devon Bostick;The 100;Jasper Jordan;M;2014-03-19;22;16;6
+Lindsey Morgan;The 100;Raven Reyes;F;2014-03-19;24;19;5
+Richard Harmon;The 100;John Murphy;M;2014-03-19;22;17;5
+Ricky Whittle;The 100;Lincoln;M;2014-03-19;32;25;7
+Jarod Joseph;The 100;Nathan Miller;M;2014-03-19;28;18;10
+Victor Zinck Jr.;The 100;Dax;M;2014-03-19;;17;
+Kathryn Newton;The Society;Allie Pressman;F;2019-05-10;22;17;5
+Rachel Keller;The Society;Cassandra Pressman;F;2019-05-10;26;18;8
+Jacques Colimon;The Society;Will LeClair;M;2019-05-10;24;17;7
+Alex Fitzalan;The Society;Harry Bingham;M;2019-05-10;23;17;6
+Kristine Froseth;The Society;Kelly Aldrich;F;2019-05-10;23;17;6
+Gideon Adlon;The Society;Becca Gelb;F;2019-05-10;22;17;5
+Olivia DeJonge;The Society;Elle Tomkins;F;2019-05-10;21;17;4
+Toby Wallace;The Society;Campbell Eliot;M;2019-05-10;22;18;4
+José Julián;The Society;Gordie Moreno;M;2019-05-10;;17;
+Jack Mulhern;The Society;"Gareth ""Grizz"" Visser";M;2019-05-10;;17;
+Olivia Nikkanen;The Society;Gwen Patterson;F;2019-05-10;20;17;3
+Natasha Liu Bordizzo;The Society;Helena Wu;F;2019-05-10;24;17;7
+Alex MacNicoll;The Society;Luke Holbrook;M;2019-05-10;;18;
+Sean Berdy;The Society;Sam Eliot;M;2019-05-10;25;17;8
+KJ Apa;Riverdale;Archie Andrews;M;2017-01-26;19;18;1
+Lili Reinhart;Riverdale;Betty Cooper;F;2017-01-26;20;18;2
+Camila Mendes;Riverdale;Veronica Lodge;F;2017-01-26;22;18;4
+Cole Sprouse;Riverdale;Jughead Jones;M;2017-01-26;24;18;6
+Madelaine Petsch;Riverdale;Cheryl Blossom;F;2017-01-26;22;19;3
+Dylan Minnette;13 Reasons Why;Clay Jensen;M;2017-03-21;20;16;4
+Katherine Langford;13 Reasons Why;Hannah Baker;F;2017-03-21;20;17;3
+Christian Navarro;13 Reasons Why;Tony Padilla;M;2017-03-21;25;17;8
+Alisha Boe;13 Reasons Why;Jessica Davis;F;2017-03-21;20;16;4
+Brandon Flynn;13 Reasons Why;Justin Foley;M;2017-03-21;23;16;7
+Justin Prentice;13 Reasons Why;Bryce Walker;M;2017-03-21;22;17;5
+Miles Heizer;13 Reasons Why;Alex Standall;M;2017-03-21;22;17;5
+Ross Butler;13 Reasons Why;Zach Dempsey;M;2017-03-21;26;17;9
+Devin Druid;13 Reasons Why;Tyler Down;M;2017-03-21;19;16;3
+Saoirse-Monica Jackson;Derry Girls;Erin Quinn;F;2017-03-21;23;17;6
+Louisa Harlond;Derry Girls;Orla McCool;F;2017-03-21;24;15;9
+Jamie Lee O'Donnell;Derry Girls;Michelle Mallon;F;2017-03-21;30;17;13
+Nicola Coughlan;Derry Girls;Clare Devlin;F;2017-03-21;30;17;13
+Dylan Llewellyn;Derry Girls;James Maguire;M;2017-03-21;24;17;7
+Blake Lively;Gossip Girl;Serena van der Woodsen;F;2007-09-19;20;16;4
+Leighton Meester;Gossip Girl;Blair Waldorf;F;2007-09-19;21;16;5
+Penn Badgley;Gossip Girl;Dan Humphrey;M;2007-09-19;20;16;4
+Chace Crawford;Gossip Girl;Nate Archibald;M;2007-09-19;22;16;6
+Ed Westwick;Gossip Girl;Chuck Bass;M;2007-09-19;20;16;4
+Taylor Momsen;Gossip Girl;Jenny Humphrey;F;2007-09-19;14;14;0
+Jessica Szohr;Gossip Girl;Vanessa Abrams;F;2007-09-19;22;16;6
+Emily Alyn Lynd;Gossip Girl Revival;Audrey Hope;F;2021-07-08;20;16;4
+Jordan Alexander;Gossip Girl Revival;Julien Calloway;F;2021-07-08;27;16;11
+Thomas Doherty;Gossip Girl Revival;Max Wolfe;M;2021-07-08;26;17;9
+Savannah Smith;Gossip Girl Revival;Monet de Haan;F;2021-07-08;20;16;4
+Evan Mock;Gossip Girl Revival;"Akeno ""Aki"" Menzies";M;2021-07-08;24;16;8
+Zion Moreno;Gossip Girl Revival;Luna La;F;2021-07-08;26;16;10
+Whitney Peak;Gossip Girl Revival;Zoya Lott;F;2021-07-08;18;15;3
+Eli Brown;Gossip Girl Revival;"Otto ""Obie"" Bergmann IV";M;2021-07-08;21;16;5
+Mia Healey;The Wilds;Shelby Goodkind;F;2020-12-11;;17;
+Helena Howard;The Wilds;Nora Reid;F;2020-12-11;22;17;5
+Erana James;The Wilds;Toni Shalifoe;F;2020-12-11;21;17;4
+Sarah Pidgeon;The Wilds;Leah Rilke;F;2020-12-11;;17;
+Jenna Clause;The Wilds;Martha Blackburn;F;2020-12-11;21;16;5
+Sophia Ali;The Wilds;Fatin Jadmani;F;2020-12-11;25;17;8
+Shannon Berry;The Wilds;Dot Campbell;F;2020-12-11;;17;
+Reign Edwards;The Wilds;Rachel Reid;F;2020-12-11;24;17;7
+Chase Stokes;Outer Banks;"John Booker ""John B"" Routledge";M;2020-04-15;27;17;10
+Madelyn Cline;Outer Banks;Sarah Cameron;F;2020-04-15;22;16;6
+Madison Bailey;Outer Banks;"Kiara ""Kie"" Carrera";F;2020-04-15;21;16;5
+Jonathan Daviss;Outer Banks;Pope Heyward;M;2020-04-15;21;16;5
+Rudy Pankow;Outer Banks;JJ Maybank;M;2020-04-15;21;16;5
+Austin North;Outer Banks;Topper Thornton;M;2020-04-15;23;18;5
+Drew Starkey;Outer Banks;Rafe Cameron;M;2020-04-15;26;19;7
+Diego Tinoco;On My Block;Cesar Diaz;M;2018-03-16;20;14;6
+Brett Gray;On My Block;Jamal Turner;M;2018-03-16;21;14;7
+Sierra Capri;On My Block;Monse Finnie;F;2018-03-16;19;14;5
+Jason Genao;On My Block;"Ruben ""Ruby"" Martinez";M;2018-03-16;21;14;7
+Jessica Marie Garcia;On My Block;Jasmine Flores;F;2018-03-16;30;14;16
+Maitreyi Ramakrishnan;Never Have I Ever;Devi Vishwakumar;F;2020-04-27;18;15;3
+Darren Barnet;Never Have I Ever;Paxton Hall-Yoshida;M;2020-04-27;29;16;13
+Jaren Lewison;Never Have I Ever;"Benjamin ""Ben"" Gross";M;2020-04-27;19;15;4
+Lee Rodriguez;Never Have I Ever;Fabiola Torres;F;2020-04-27;20;15;5
+Ramona Young;Never Have I Ever;Eleanor Wong;F;2020-04-27;21;15;6
+Benjamin Norris;Never Have I Ever;Trent Harrison;M;2020-04-27;;16;
+Christina Kartchner;Never Have I Ever;Eve Hjelm;F;2020-04-27;25;15;10
+Virginia Gardner;Runaways;Karolina Dean;F;2017-11-21;22;16;6
+Lyrica Okano;Runaways;Nico Minoru;F;2017-11-21;23;16;7
+Ariela Barer;Runaways;Gert Yorkes;F;2017-11-21;19;16;3
+Allegra Acosta;Runaways;Molly Hayes Hernandez;F;2017-11-21;14;15;-1
+Rhenzy Feliz;Runaways;Alex Wilder;M;2017-11-21;20;17;3
+Gregg Sulkin;Runaways;Chase Stein;M;2017-11-21;25;17;8
+Daniel Ezra;All American;Spencer James;M;2018-10-10;26;17;9
+Bre-Z;All American;"Tamia ""Coop"" Cooper";F;2018-10-10;31;17;14
+Greta Onieogou;All American;Layla Keating;F;2018-10-10;27;17;10
+Samantha Logan;All American;Olivia Baker;F;2018-10-10;21;17;4
+Michael Evans Behling;All American;Jordan Baker;M;2018-10-10;22;17;5
+Cody Christian;All American;Asher Adams;M;2018-10-10;23;17;6
+Zendaya;Euphoria;Rue Bennett;F;2019-06-16;22;17;5
+Hunter Schafer;Euphoria;Jules;F;2019-06-16;20;17;3
+Jacob Elordi;Euphoria;Nate Jacobs;M;2019-06-16;21;17;4
+Algee Smith;Euphoria;Chris McKay;M;2019-06-16;24;17;7
+Alexa Demie;Euphoria;Maddy Perez;F;2019-06-16;28;17;11
+Maude Apatow;Euphoria;Lexi Howard;F;2019-06-16;21;16;5
+Sydney Sweeney;Euphoria;Cassie Howard;F;2019-06-16;21;17;4
+Barbie Ferreira;Euphoria;"Katherine ""Kat"" Hernandez";F;2019-06-16;22;17;5
+Storm Reid;Euphoria;Gia Bennett;F;2019-06-16;15;15;0
+Chad Michael Murray;One Tree Hill;Lucas Scott;M;2003-09-23;22;15;7
+James Lafferty;One Tree Hill;Nathan Scott;M;2003-09-23;18;15;3
+Hilarie Burton;One Tree Hill;Peyton Sawyer;F;2003-09-23;21;15;6
+Bethany Joy Lenz;One Tree Hill;Haley James;F;2003-09-23;22;15;7
+Sophia Bush;One Tree Hill;Brooke Davis;F;2003-09-23;21;15;6
+Benjamin McKenzie;The O.C.;Ryan Atwood;M;2003-08-05;24;15;9
+Adam Brody;The O.C.;Seth Cohen;M;2003-08-05;23;15;8
+Mischa Barton;The O.C.;Marissa Cooper;F;2003-08-05;17;15;2
+Rachel Bilson;The O.C.;Summer Roberts;F;2003-08-05;21;15;6
+Chris Carmack;The O.C.;Luke Ward;M;2003-08-05;22;15;7
+Michael Cimino;Love, Victor;Victor Salazar;M;2020-06-17;20;15;5
+Rachel Naomi Hilson;Love, Victor;Mia Brooks;F;2020-06-17;24;15;9
+Anthony Turpel;Love, Victor;Felix Weston;M;2020-06-17;20;15;5
+Bebe Wood;Love, Victor;Lake Meriwether;F;2020-06-17;18;15;3
+Mason Gooding;Love, Victor;Andrew Spencer;M;2020-06-17;23;15;8
+George Sear;Love, Victor;Benji Campbell;M;2020-06-17;22;17;5
+Isabella Ferreira;Love, Victor;Pilar Salazar;F;2020-06-17;17;14;3
+Brianna Hildebrand;Trinkets;Elodie Davis;F;2019-06-14;22;16;6
+Kiana Medeira;Trinkets;"Maureen ""Moe"" Truax";F;2019-06-14;26;16;10
+Quintessa Swindell;Trinkets;Tabitha Foster;F;2019-06-14;22;16;6
+Brandon Butler;Trinkets;Brady Finch;M;2019-06-14;22;17;5
+Odiseas Georgiadis;Trinkets;Noah Simos;M;2019-06-14;22;16;6
+Troian Bellisario;Pretty Little Liars;Spencer Hastings;F;2010-06-08;24;16;8
+Ashley Benson;Pretty Little Liars;Hanna Marin;F;2010-06-08;20;16;4
+Lucy Hale;Pretty Little Liars;Aria Montgomery;F;2010-06-08;20;17;3
+Shay Mitchell;Pretty Little Liars;Emily Fields;F;2010-06-08;23;16;7
+Ian Harding;Pretty Little Liars;Ezra Fitz;M;2010-06-08;23;21;2
+Sasha Pieterse;Pretty Little Liars;Alison DiLaurentis;F;2010-06-08;14;16;-2
+Bianca Lawson;Pretty Little Liars;Maya St. Germain;F;2010-06-08;31;17;14
+Jackson Robert Scott;Locke & Key;Bode Locke;M;2020-02-07;11;10;1
+Connor Jessup;Locke & Key;Tyler Locke;M;2020-02-07;25;17;8
+Emilia Jones;Locke & Key;Kinsey Locke;F;2020-02-07;17;15;2
+Griffin Gluck;Locke & Key;Gabe;M;2020-02-07;19;15;4
+Petrice Jones;Locke & Key;Scot Cavendish;M;2020-02-07;26;16;10
+Genevieve Kang;Locke & Key;Jackie Veda;F;2020-02-07;;17;
+Thomas Mitchell Barnet;Locke & Key;Sam Lesser;M;2020-02-07;;16;
+Kevin Alves;Locke & Key;Javi;M;2020-02-07;28;16;12
+Asha Bromfield;Locke & Key;Zadie Wells;F;2020-02-07;25;16;9
+Felix Mallard;Locke & Key;Lucas Caravaggio;M;2020-02-07;21;17;4
+Hallea Jones;Locke & Key;Eden Hawkins;F;2020-02-07;;16;
